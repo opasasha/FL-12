@@ -95,8 +95,8 @@ p
 {
     text-align: left;
 }
-
-.blocks {
+.blocks 
+{
     display: flex;
     flex-direction: column;
 }
@@ -131,7 +131,6 @@ p
 {
     text-indent: 25px;
     line-height: 30px;
-
 }
 .form-control:nth-child(-n+3)
 {
@@ -140,7 +139,6 @@ p
     border-right: none;
     border-top: none;
 }
-
 .form-control:nth-child(-n+3):focus-within
 {
     background-color: lightskyblue;
